@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+
+.button-style button {
+  background-color: #c19e5c;
+  color: white;
+  padding: 10px 45px;
+  border-radius: 16px;
+  /* background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 85%); */
+  background: linear-gradient(135deg, hsla(39, 45%, 56%, 1) 0%, hsla(40, 75%, 89%, 1) 100%);
+}
