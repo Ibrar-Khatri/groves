@@ -5,8 +5,8 @@ import NavLinks from "./Links";
 
 const Header = () => {
   return (
-    <div className="flex flex-col bg-slate-600 justify-center items-center">
-      <div className="max-w-screen-lg flex justify-between items-center bg-slate-300 w-full p-5">
+    <div className="flex flex-col justify-center items-center">
+      <div className="max-w-screen-lg flex justify-between items-center w-full p-5">
         <Image src={"/logo-sm.png"} width={220} height={50} />
         <div className="flex justify-evenly items-center gap-3">
           <Link href={""}>
