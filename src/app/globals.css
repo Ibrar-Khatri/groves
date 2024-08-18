@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url("../style/component/SideBardMenu.css");
 
 :root {
   --foreground-rgb: 0, 0, 0;
